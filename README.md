@@ -50,3 +50,4 @@ For true multiuser collaboration, instructor dashboards, and centralized persist
 6. The report includes a check for 3–5 risks in each technical, security, and compliance category, matching the provided classroom exercise. The seeded demonstration project does **not** satisfy this count; add risks before submitting.
 
 Report details are saved with each project in local browser storage and exported in JSON backups. Reports are generated entirely on the device, without a server. The generator does not create a PDF file directly; it uses the browser Print/Save as PDF workflow.
+Hosted using GitHub Pages.
